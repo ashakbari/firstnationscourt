@@ -4,7 +4,7 @@ The site is live on GitHub Pages, but a few things need a human before it goes o
 
 ## Before showing your prof
 
-- [ ] Write your own two or three sentences on about.html where the TODO-AUTHOR comment sits. It must be in your voice, not drafted by AI.
+- [ ] The author line is on about.html ("This site was created by Ash Akbari..."). Expand it if you want more of your own voice there.
 - [ ] Read what-a-court-day-looks-like.html closely. It leans on your firsthand observations; fix anything that does not match what you saw.
 - [ ] Skim every page once on your phone.
 

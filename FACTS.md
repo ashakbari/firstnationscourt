@@ -71,7 +71,7 @@ Wording varies across official sources. The site reflects the variation honestly
 - F4. Ceremony: "Court may begin and end with a prayer. It may include a ceremony used by Indigenous groups to cleanse the spirit and bring forth good energy, such as smudging." (PC main page)
 - F5. What the judge weighs: "the harm you caused to the victim(s), your background, your strengths and resilience, your needs now, and how a healing plan can be made for you and your community." (https://info.legalaid.bc.ca/resources/indigenous-peoples/what-are-first-nations-indigenous-courts)
 - F6. Attendance is in person by default. (https://aboriginal.legalaid.bc.ca/courts-criminal-cases/first-nations-court, citing the Provincial Court's NP 28)
-- F7. Eagle feathers and the counterclockwise order of introductions appear in no official source for BC's courts. They come from AUTHOR-NOTES.md only and must be attributed to the author's observation at New Westminster.
+- F7. Eagle feathers and the counterclockwise order of introductions appear in no official source for BC's courts. They come from AUTHOR-NOTES.md (firsthand at New Westminster). State them tied to New Westminster with "may" or "often" wording, never as how every court runs, and without "this site's author" phrasing.
 
 ## G. Healing plans
 

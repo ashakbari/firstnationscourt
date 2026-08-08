@@ -25,7 +25,10 @@ This is a public legal information website about First Nations Court in British 
 
 ## Accuracy protocol (the most important rules here)
 
-- Every factual claim on the site must trace to an entry in FACTS.md. Every FACTS.md entry carries a source URL. AUTHOR-NOTES.md is the one other permitted source; it holds the author's firsthand observations and anything drawn from it must be presented as what the author saw at New Westminster, not as how every court runs.
+- Every factual claim on the site must trace to an entry in FACTS.md. Every FACTS.md entry carries a source URL. AUTHOR-NOTES.md is the one other permitted source; it holds firsthand observations from New Westminster. State those plainly, tied to New Westminster and softened with "may" and "often" since practice varies. Site copy never says "this site's author" or "the author"; the author is identified once, on the about page.
+- Gladue scope: describe Gladue as sentencing law that courts have extended to other criminal liberty decisions like bail. Never write that it applies in "every court" without the criminal qualifier.
+- Review hearings vary by court. Use "in most courts" phrasing, never "required" universally.
+- Neutrality: never describe the judge or the court as being on the reader's side, and keep motivational or moralizing lines out. The site informs; it does not speak for the court or coach the reader's character. Frame support as what the process is built to do.
 - If a needed fact is not in FACTS.md, leave it out or add an HTML comment TODO-AUTHOR describing what needs checking. Never guess.
 - Never invent statistics, dates, names, phone numbers, or addresses. Contact details come only from the organization's own official page, via FACTS.md.
 - Court sitting dates are never hardcoded. Link to the Provincial Court's page for current dates.
@@ -52,4 +55,6 @@ This is a public legal information website about First Nations Court in British 
 - All internal links are relative with no leading slash (works on GitHub Pages subpaths and on the custom domain).
 - Mobile-first. WCAG AA contrast. Visible focus states. Tap targets at least 44px.
 - Kebab-case filenames.
-- Shared shell: copy the header, crisis band, and footer markup exactly from index.html on every page. The only per-page changes are the title, meta description, and the aria-current attribute on the active nav link.
+- Shared shell: copy the header and footer markup exactly from index.html on every page. The only per-page changes are the title, meta description, and the aria-current attribute on the active nav link. The fuller crisis band appears only on index.html and if-you-slip-up.html; the slim footer everywhere carries the two always-on numbers (duty counsel and KUU-US).
+- Every substantive content page ends with a "Sources for this page" section of three to six links.
+- Naming: the site name stays FirstNationsCourt.ca, but copy must make clear the official category is Indigenous sentencing courts, individual courts are named First Nations Court or Indigenous Court by location, and all of them serve First Nations, Métis, and Inuit people.

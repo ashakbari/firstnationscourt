@@ -548,6 +548,44 @@ dl.glossary dt {
 }
 dl.glossary dd { margin: 0.25rem 0 0; padding-left: 0; }
 
+/* ---------- Per-page sources ---------- */
+
+.page-sources {
+  border-top: 1px solid var(--sand);
+  margin-top: 2.25rem;
+  padding-top: 1.4rem;
+  padding-bottom: 2.5rem;
+  max-width: var(--measure);
+}
+
+.page-sources h2 {
+  font-family: "Atkinson Hyperlegible", Georgia, serif;
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-soft);
+  margin: 0 0 0.6rem;
+}
+
+.page-sources ul { list-style: none; margin: 0; padding: 0; font-size: 0.95rem; }
+.page-sources li { margin-bottom: 0.35rem; }
+
+/* ---------- Slim footer links, task cards ---------- */
+
+.footer-links {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.7rem;
+  margin: 1.15rem 0;
+  padding: 0;
+}
+
+.footer-links a { font-weight: 700; }
+
+.card .btn { margin: 0.4rem 0 0.55rem; }
+
 /* ---------- Print (site pages) ---------- */
 
 @media print {
