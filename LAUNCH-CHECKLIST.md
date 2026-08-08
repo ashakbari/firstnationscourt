@@ -15,8 +15,8 @@ The site is live on GitHub Pages, but a few things need a human before it goes o
 - [x] Court day: circle room placed, honestly captioned as the Calgary Indigenous Court.
 - [x] Healing plans: cedar placed.
 - [x] BC map with ten dots: drawn as an inline SVG on the homepage and locations page.
-- [ ] Still to come: the boardwalk outside the Inn at the Quay with the river behind it (court day page placeholder describes it).
-- [ ] Licensing before the real domain launch: the Fraser and cedar photos look like watermarked stock comps (Dreamstime), so buy the licenses and swap the clean files in under the same filenames in assets/. The Law Courts photo looks like a news outlet's; confirm permission or shoot your own. Confirm the Calgary photo's source and permission.
+- [x] Court day: Inn at the Quay boardwalk photo placed. Every figure on the site is now filled.
+- [ ] Licensing before the real domain launch: the Fraser and cedar photos look like watermarked stock comps (Dreamstime), so buy the licenses and swap the clean files in under the same filenames in assets/. The Law Courts photo looks like a news outlet's and the Inn photo like a travel-site upload; confirm permission or shoot your own. Confirm the Calgary photo's source and permission.
 - [ ] Do not use photos of smudging or any ceremony, eagle feathers or drums as props, or stock photos of Indigenous people. Land and water only, unless you have permission.
 
 ## Before the real domain goes live
