@@ -8,14 +8,15 @@ The site is live on GitHub Pages, but a few things need a human before it goes o
 - [ ] Read what-a-court-day-looks-like.html closely. It leans on your firsthand observations; fix anything that does not match what you saw.
 - [ ] Skim every page once on your phone.
 
-## Images (the site works without them, placeholders describe each one)
+## Images
 
-- [ ] Homepage and locations: shoot the Fraser River from the New Westminster Quay boardwalk, early morning.
-- [ ] Court day page: the boardwalk outside the Inn at the Quay with the river behind it, and a bright room with chairs in a circle (empty).
-- [ ] Getting your case there: the New Westminster Law Courts exterior from the street.
-- [ ] Healing plans: cedar branches close up in soft light.
-- [ ] Map of BC with ten dots: ask Claude to draw this as an SVG once you are happy with the court list, no photo needed.
-- [ ] When you add a photo, replace the whole figure.image-placeholder block with an img tag and use the alt text already written in the placeholder.
+- [x] Homepage Fraser River photo placed (assets/fraser-river-new-westminster.webp).
+- [x] Getting your case there: Law Courts photo placed.
+- [x] Court day: circle room placed, honestly captioned as the Calgary Indigenous Court.
+- [x] Healing plans: cedar placed.
+- [x] BC map with ten dots: drawn as an inline SVG on the homepage and locations page.
+- [ ] Still to come: the boardwalk outside the Inn at the Quay with the river behind it (court day page placeholder describes it).
+- [ ] Licensing before the real domain launch: the Fraser and cedar photos look like watermarked stock comps (Dreamstime), so buy the licenses and swap the clean files in under the same filenames in assets/. The Law Courts photo looks like a news outlet's; confirm permission or shoot your own. Confirm the Calgary photo's source and permission.
 - [ ] Do not use photos of smudging or any ceremony, eagle feathers or drums as props, or stock photos of Indigenous people. Land and water only, unless you have permission.
 
 ## Before the real domain goes live

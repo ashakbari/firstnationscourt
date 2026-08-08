@@ -1,20 +1,16 @@
-# Image shopping list
+# Image status
 
-Generated from the placeholders on the site. When a photo is found, replace the whole figure.image-placeholder block with an img tag and use the alt text below.
+## Placed (in assets/)
+- index.html: assets/fraser-river-new-westminster.webp, the Quay boardwalk at dusk
+- getting-your-case-there.html: assets/new-westminster-law-courts.jpg
+- what-a-court-day-looks-like.html: assets/calgary-indigenous-court-circle.jpg (caption names Calgary honestly)
+- healing-plans.html: assets/cedar-branches.jpg
+- index.html and locations.html: the BC map is an inline SVG now, no file needed
 
-- getting-your-case-there.html: the New Westminster Law Courts building from the street in ordinary daylight.
-  Alt text: The New Westminster Law Courts building at 651 Carnarvon Street.
-- healing-plans.html: a close photo of cedar branches in soft light.
-  Alt text: Cedar branches in soft light.
-- index.html: a wide, calm photo of the Fraser River from the New Westminster Quay boardwalk in early morning light.
-  Alt text: The Fraser River seen from the New Westminster Quay boardwalk on a calm morning.
-- index.html: a simple, clean map of BC with a dot marking each of the ten court cities.
-  Alt text: Map of British Columbia showing the ten Indigenous sentencing court locations.
-- locations.html: a simple, clean map of BC with a dot marking each of the ten court cities.
-  Alt text: Map of British Columbia showing the ten Indigenous sentencing court locations.
+## Still to come
 - what-a-court-day-looks-like.html: the boardwalk outside the Inn at the Quay in New Westminster, with the Fraser River behind it.
-  Alt text: The boardwalk beside the Fraser River outside the Inn at the Quay in New Westminster.
-- what-a-court-day-looks-like.html: a bright meeting room with chairs arranged in a circle, empty.
-  Alt text: A bright room with chairs arranged in a circle.
 
-Avoid: photos of smudging or any ceremony, eagle feathers or drums as props, and generic stock photos of Indigenous people. Land and water carry the feeling. The author can shoot the New Westminster photos in person.
+## Licensing to sort before the real domain launch (see LAUNCH-CHECKLIST.md)
+- The Fraser River and cedar photos look like watermarked stock comps (Dreamstime). Buy the licenses and swap in the clean files under the same asset names.
+- The Law Courts photo appears to be from a news outlet. Confirm permission or replace with your own shot.
+- Confirm the Calgary Indigenous Court photo's source and permission, and keep the caption crediting Calgary.
