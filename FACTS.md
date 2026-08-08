@@ -53,6 +53,7 @@ Wording varies across official sources. The site reflects the variation honestly
 - D4. Legal Aid BC warning: "Don't plead guilty without getting legal advice first." (https://aboriginal.legalaid.bc.ca/courts-criminal-cases/first-nations-court)
 - D5. Mainly a sentencing and review court, but Legal Aid BC says a bail or sentencing hearing might be held there, and Justice Canada says referral is possible "for most bail and sentencing hearings". (https://aboriginal.legalaid.bc.ca/courts-criminal-cases/first-nations-court and https://www.justice.gc.ca/eng/rp-pr/jr/gladue/p4.html)
 - D6. In some cases clients complete healing plans while on bail and Crown counsel do not proceed with their charges. (PC main page)
+- D7. Presumption of innocence and the plea: everyone charged has the Charter s. 11(d) right "to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal", and at trial the Crown must prove guilt beyond a reasonable doubt. A guilty plea waives that trial. (Standard criminal law; Charter text at https://laws-lois.justice.gc.ca/eng/const/)
 
 ## E. Getting a case there
 
@@ -72,6 +73,7 @@ Wording varies across official sources. The site reflects the variation honestly
 - F5. What the judge weighs: "the harm you caused to the victim(s), your background, your strengths and resilience, your needs now, and how a healing plan can be made for you and your community." (https://info.legalaid.bc.ca/resources/indigenous-peoples/what-are-first-nations-indigenous-courts)
 - F6. Attendance is in person by default. (https://aboriginal.legalaid.bc.ca/courts-criminal-cases/first-nations-court, citing the Provincial Court's NP 28)
 - F7. Eagle feathers and the counterclockwise order of introductions appear in no official source for BC's courts. They come from AUTHOR-NOTES.md (firsthand at New Westminster). State them tied to New Westminster with "may" or "often" wording, never as how every court runs, and without "this site's author" phrasing.
+- F8. Smudging generally involves burning sacred plant medicines and drawing the smoke over the body; it carries deep meaning in many Indigenous cultures, and meaning and practice differ among Nations. (General description consistent with F4's court wording; widely documented in Indigenous health and government sources.)
 
 ## G. Healing plans
 
@@ -113,10 +115,11 @@ No official source describes a breach procedure specific to these courts. The si
 - J9. Requesting a report: through your lawyer, who refers via BCFNJC's system; "If you do not have a lawyer, BC Prosecution Service (BCPS) can also help submit a Gladue request on your behalf." BCFNJC Gladue services: 1-877-602-4858 or 1-778-940-3519. (https://bcfnjc.com/gladue-services/)
 - J10. BCFNJC writes Gladue reports for sentencing hearings, reviews in First Nations/Indigenous court, dangerous offender hearings, long term offender hearings, and not criminally responsible hearings, but not for bail hearings, even though Gladue principles still apply at bail. (https://bcfnjc.com/gladue-services/; J4)
 - J11. Reports can take up to 8 weeks. Requesting one is the person's right, but reports are not required. (https://wiki.clicklaw.bc.ca/index.php/Justice_Systems_(Legal_Information_for_Indigenous_People))
+- J12. Nothing in s. 718.2(e), Gladue, or Ipeelee limits how many times Gladue applies. It is mandatory at every sentencing of an Indigenous person, first case or tenth; there is no legal basis for "saving" it for a bigger charge. (J1 "all offenders"; J3 mandatory)
 
 ## K. Where to get help
 
-- K1. Indigenous Community Legal Clinic (ICLC), Allard School of Law, UBC: 148 Alexander Street, Vancouver, BC V6A 1B5. Phone 604-822-1311. Email iclc@allard.ubc.ca. Free legal services for people who self-identify as Indigenous, cannot afford a lawyer, and qualify financially. Handles BC Provincial Court matters including criminal, family, and child protection, plus some other matters. Intake closed Thursdays. (https://allard.ubc.ca/community-clinics/indigenous-community-legal-clinic and .../contact-us-location and .../information-clients)
+- K1. Indigenous Community Legal Clinic (ICLC), Allard School of Law, UBC: 148 Alexander Street, Vancouver, BC V6A 1B5. Phone 604-822-1311. Email iclc@allard.ubc.ca. Free legal services for people who self-identify as Indigenous, cannot afford a lawyer, and qualify financially. In practice the clinic mostly gives summary legal advice and helps with criminal matters, wills and estates, and settlement claims such as residential and day school claims (clinic practice, confirmed firsthand August 2026; the clinic's pages list a broader range including family and child protection). New clients call and do an intake. Intake closed Thursdays. (https://allard.ubc.ca/community-clinics/indigenous-community-legal-clinic and .../contact-us-location and .../information-clients)
 - K2. Legal Aid BC fact sheet, exact title "What Are First Nations/Indigenous Courts?", last reviewed January 2022, so it predates the newest courts. (https://info.legalaid.bc.ca/resources/indigenous-peoples/what-are-first-nations-indigenous-courts)
 - K3. Legal Aid BC call centre: 604-408-2172 (Greater Vancouver), 1-866-577-2525 (elsewhere in BC). Hours Monday, Tuesday, Thursday, Friday 9 am to 4 pm; Wednesday 9 am to 2:30 pm. (https://legalaid.bc.ca/services/criminal-law)
 - K4. First Nations Court duty counsel: 604-601-6074 (Greater Vancouver), 1-877-601-6066 (elsewhere in BC). Free. (https://aboriginal.legalaid.bc.ca/courts-criminal-cases/first-nations-court)
