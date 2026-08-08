@@ -57,4 +57,6 @@ This is a public legal information website about First Nations Court in British 
 - Kebab-case filenames.
 - Shared shell: copy the header and footer markup exactly from index.html on every page. The only per-page changes are the title, meta description, and the aria-current attribute on the active nav link. The fuller crisis band appears only on index.html and if-you-slip-up.html; the slim footer everywhere carries the two always-on numbers (duty counsel and KUU-US).
 - Every substantive content page ends with a "Sources for this page" section of three to six links.
+- The eight process pages carry the .subnav pill bar under the header, with aria-current on the current page. The footer's single page list names every page.
+- Balance help pathways: lawyer first, then duty counsel as the free route, with courtworkers and the ICLC alongside. Crown counsel usually has to agree to a transfer; never write "at some courts" alone.
 - Naming: the site name stays FirstNationsCourt.ca, but copy must make clear the official category is Indigenous sentencing courts, individual courts are named First Nations Court or Indigenous Court by location, and all of them serve First Nations, Métis, and Inuit people.

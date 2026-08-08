@@ -548,6 +548,46 @@ dl.glossary dt {
 }
 dl.glossary dd { margin: 0.25rem 0 0; padding-left: 0; }
 
+/* ---------- Process subnav ---------- */
+
+.subnav {
+  background: var(--paper-2);
+  border-bottom: 1px solid var(--sand);
+}
+
+.subnav ul {
+  list-style: none;
+  display: flex;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0.6rem 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.subnav ul::-webkit-scrollbar { display: none; }
+
+.subnav a {
+  display: inline-block;
+  white-space: nowrap;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--river);
+  border: 1px solid transparent;
+}
+
+.subnav a:hover { background: var(--card); border-color: var(--sand); color: var(--river-deep); }
+
+.subnav a[aria-current="page"] {
+  background: var(--card);
+  color: var(--ink);
+  border: 1px solid var(--sand-deep);
+}
+
 /* ---------- Per-page sources ---------- */
 
 .page-sources {

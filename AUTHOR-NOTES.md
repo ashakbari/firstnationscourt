@@ -8,4 +8,11 @@ These are the author's own observations from attending New Westminster First Nat
 - Present in the circle: the judge, Elders, duty counsel, Crown counsel, Native Courtworkers, the person appearing, and their supporters.
 - Native Courtworkers come and talk with the client, build a connection, and help with practical needs like housing.
 
-Note: no official source mentions eagle feathers or the counterclockwise order at BC's Indigenous sentencing courts. These details are attributed to the author's observation only.
+Additional firsthand guidance (added August 2026, from attending with clients):
+- Unlike regular court, where the lawyer does almost all the talking and the client is prepped on what to say, in this court the client does most of the talking. There is no telling what the Elders will talk about with them, so honesty is the best preparation.
+- Speak as in a normal conversation, but loudly enough that the judge across the room can hear, and stay respectful.
+- Having a family member or friend present shows the court the person has support. The court wants to see the person has the support needed to follow through on a healing plan: housing, counselling, addiction treatment and rehab if needed, access to resources.
+- Being proactive about lining up that support makes a very good impression. The more willing the person is to change their situation, the more the court feels like a natural part of that process.
+- In practice, Crown counsel almost always needs to be on board for a case to move, not just duty counsel.
+
+Note: no official source mentions eagle feathers or the counterclockwise order at BC's Indigenous sentencing courts. These details come from firsthand observation only.
